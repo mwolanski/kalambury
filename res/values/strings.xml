@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StartScreen</string>
+    <string name="clear_text">Czyść</string>
+    <string name="maluj">Maluj</string>
+    <string name="size10">10</string>
+    <string name="tools">Narzędzia</string>
+</resources>
