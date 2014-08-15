@@ -1,12 +1,16 @@
 package com.example.Kalambury;
 
 import android.graphics.Path;
-import android.graphics.RectF;
+
+import java.io.Serializable;
 
 /**
- * Created by macie_000 on 2014-07-27.
+ * Created by Maciej Wolański
+ * maciekwski@gmail.com
+ * on 2014-07-27.
  */
-public class DrawingObject{
+public class DrawingObject implements Serializable {
+    private static final long serialVersionUID = 3200l;
     Path path;
     int color;
     int size;

@@ -15,8 +15,7 @@ public class StartScreen extends Activity {
         setContentView(R.layout.main);
     }
 
-    public void onClick(View view)
-    {
+    public void onClick(View view) {
         Intent i = new Intent(this, GameScreen.class);
         startActivity(i);
     }
