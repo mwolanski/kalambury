@@ -22,55 +22,43 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.example.maciekwski.kalambury" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d4b443f-4a14-4709-ae18-f4c76eeece7c" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\ant.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\build.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\gen\com\example\Kalambury\BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\gen\com\example\Kalambury\Manifest.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\gen\com\example\Kalambury\R.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\kalambury" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\Kalambury.apk" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\DrawingObject.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\GameScreen$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\GameScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\PaintView.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\R.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\out\production\Kalambury\com\example\Kalambury\StartScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\project.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\drawable-hdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\drawable-hdpi\paint_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\drawable-hdpi\scores_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\drawable-ldpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\drawable-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\layout\game_screen.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\layout\main.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\menu\game_screen_actions.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\values\colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\values\numbers.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\res\values\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\src\com\example\Kalambury\DrawingObject.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\src\com\example\Kalambury\GameScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\src\com\example\Kalambury\PaintView.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Programowanie\Wlasne\Kalambury\src\com\example\Kalambury\StartScreen.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Kalambury.iml" afterPath="$PROJECT_DIR$/Kalambury.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="9d4b443f-4a14-4709-ae18-f4c76eeece7c" name="Default" comment="przejście na AS">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/paint_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/scores_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/maciekwski/kalambury/DataExchangeManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/maciekwski/kalambury/DrawingObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/maciekwski/kalambury/GameScreen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/maciekwski/kalambury/PaintView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/maciekwski/kalambury/StartScreen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs_paint_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/game_screen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/game_screen_actions.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/numbers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/start_screen.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Kalambury.iws" />
@@ -97,7 +85,7 @@
       <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5459098" vertical-offset="13" max-vertical-offset="612">
+            <state vertical-scroll-proportion="0.5676127" vertical-offset="0" max-vertical-offset="612">
               <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
@@ -110,6 +98,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="tasksExpandState">
@@ -1240,11 +1231,16 @@
       <created>1409606011607</created>
       <updated>1409606011607</updated>
     </task>
+    <task id="LOCAL-00001" summary="przejście na AS">
+      <created>1409608805694</created>
+      <updated>1409608805694</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1634" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1257,8 +1253,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1291,6 +1287,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="przejście na AS" />
+    <option name="LAST_COMMIT_MESSAGE" value="przejście na AS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1741,7 +1739,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5459098" vertical-offset="13" max-vertical-offset="612">
+        <state vertical-scroll-proportion="0.5676127" vertical-offset="0" max-vertical-offset="612">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
