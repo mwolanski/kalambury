@@ -27,4 +27,7 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.google.appengine:appengine-endpoints:1.9.1'
+    compile 'com.google.appengine:appengine-endpoints-deps:1.9.1'
+    compile project(path: ':endpoints', configuration: 'android-endpoints')
 }
