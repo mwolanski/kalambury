@@ -2,7 +2,9 @@ package com.example.maciekwski.kalambury;
 
 import android.app.Activity;
 
-import java.io.*;
+import java.io.DataOutputStream;
+import java.io.File;
+import java.io.FileOutputStream;
 
 /**
  * Created by Maciej Wolański
@@ -12,21 +14,22 @@ import java.io.*;
 public class DataExchangeManager {
     private static final DataExchangeManager instance = new DataExchangeManager();
     private boolean mode;
+
+    private DataExchangeManager() {
+    }
+
     public static DataExchangeManager getInstance() {
         return instance;
     }
-    private DataExchangeManager(){}
 
-    public boolean register(String email, String username)
-    {
+    public boolean register(String email, String username) {
         //przywitaj serwer
         //wyślij dane
         //jak dobre to tru
         return false;
     }
 
-    public boolean logIn()
-    {
+    public boolean logIn() {
         return false;
     }
 

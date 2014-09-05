@@ -1,6 +1,7 @@
 package com.example.maciekwski.kalambury;
 
 import android.graphics.Path;
+
 import java.io.Serializable;
 
 /**

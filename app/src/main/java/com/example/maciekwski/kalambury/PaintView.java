@@ -53,6 +53,7 @@ public class PaintView extends SurfaceView implements SurfaceHolder.Callback {
         paint.setStrokeJoin(Paint.Join.ROUND);
 
     }
+
     public void surfaceCreated(SurfaceHolder holder) {
     }
 

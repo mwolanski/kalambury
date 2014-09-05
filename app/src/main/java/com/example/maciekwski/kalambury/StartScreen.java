@@ -2,8 +2,10 @@ package com.example.maciekwski.kalambury;
 
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Pair;
 import android.view.View;
 
 public class StartScreen extends Activity {
@@ -17,6 +19,7 @@ public class StartScreen extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.start_screen);
+        new EndpointsAsyncTask().execute(new Pair<Context, String>(this, "Manfred"));
     }
 
     public void onClick(View view) {
@@ -25,16 +28,18 @@ public class StartScreen extends Activity {
         startActivity(i);
     }
 
-    private void logIn(){
-        if(dem.logIn())
+    private void logIn() {
+        if (dem.logIn())
             register();
 
     }
-    private void register(){
+
+    private void register() {
         dem.register("a", "a");
     }
-    private void saveUser(){
-        dem.saveUser("a","a", this);
+
+    private void saveUser() {
+        dem.saveUser("a", "a", this);
     }
 
 }
